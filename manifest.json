@@ -6,15 +6,6 @@
     "background_color": "#333",
     "theme_color": "#333",
     "icons": [
-        {
-            "src": "/account-maker/icons/euro_money_icon_64px.png",
-            "sizes": "64x64",
-            "type": "image/png"
-        },
-        {
-            "src": "/account-maker/icons/euro_money_icon_512px.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        }
+        
     ]
 }
